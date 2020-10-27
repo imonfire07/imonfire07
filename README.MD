@@ -2,10 +2,10 @@
 
 ## I'm a Student and Gamer!!
 
-- 🔭 I'm a passionate Programmer who loves code!
+- 🔭 I'm a Passionate Programmer who loves to Code!
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play games and play with code!!
+- 🥅 2020 Goals: To get a strong hold on Competetive Coding
+- ⚡ Fun fact: I love to play games and play with code!! (Playing never bores me)
 
 ### Connect with me:
 
